@@ -1,6 +1,15 @@
-## Hi there 👋
+## Hi there 👋, this is Petya
+
+- 🔭 I’m currently working on new projects
+- 🌱 I recently finished [AWS-Essentials](https://softuni.bg/trainings/5059/aws-essentials-june-2025) and [QA Basics](https://softuni.bg/trainings/5019/qa-basics-june-2025)
+
+##### While you wait on my new projects, you can check out my past uploads and certificates:
+
 
 <!--
+
+  ####### [Web Module](https://softuni.bg/trainings/3625/programming-basics-with-java-february-2022):
+February-April 2022 [:file_folder: Programming Basics with Java](https://github.com/NMKrastev/SoftUni-Java/tree/main/Basics) | ***Completed*** | *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/133731/533130e3)*
 **PetyaKancheva/PetyaKancheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
