@@ -11,7 +11,7 @@
 - [📂JS Front End](https://github.com/PetyaKancheva/JS-Front-End) | Cert: [📃 JS Front End](https://softuni.bg/certificates/details/223913/e6cf011a) & [📂HTML & CSS](https://github.com/PetyaKancheva/HTML-CSS-Front-End) | Cert: [📃 HTML & CSS](https://softuni.bg/certificates/details/218483/d995beb1) 
  - [📂 Java Advanced](https://github.com/PetyaKancheva/Java-Courses) | Certs: [📃 Java Advanced](https://softuni.bg/certificates/details/161815/08bb3293) | [📃 Java OOP](https://softuni.bg/certificates/details/168959/b712d005)
  
-#### [👩‍🎓 Completed additional cources at SoftUni:]
+#### 👩‍🎓 Completed additional cources at SoftUni:
  - [📃 AWS Essentials](https://softuni.bg/certificates/details/248425/5f716e92)
  - [📃 QA Basics](https://softuni.bg/certificates/details/247080/ed70109a)
 <!--
