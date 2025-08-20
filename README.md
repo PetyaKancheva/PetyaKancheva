@@ -5,7 +5,7 @@
 
 ##### While you wait on my new projects, you can check out my past uploads and certificates:
 
-#### [👩‍🎓 Java Modules at SoftUni:](https://softuni.bg/professions/java)
+#### [👩‍🎓 Completed Java Modules at SoftUni:](https://softuni.bg/professions/java)
  - [📂Java Web](https://github.com/PetyaKancheva/Spring-Web) | Certs: [📃 Spring Advanced](https://softuni.bg/certificates/details/242003/6e135ef0) | [📃 Spring Fundamentals](https://softuni.bg/certificates/details/200341/05b2f40f)
  - [📂 Java DB](https://github.com/PetyaKancheva/Spring-Data) | Certs: [📃 Spring Data](https://softuni.bg/certificates/details/213096/910f83ac) | [📃 MySQL](https://softuni.bg/certificates/details/172205/a95d8b74)
 - [📂JS Front End](https://github.com/PetyaKancheva/JS-Front-End) | Cert: [📃 JS Front End](https://softuni.bg/certificates/details/223913/e6cf011a) & [📂HTML & CSS](https://github.com/PetyaKancheva/HTML-CSS-Front-End) | Cert: [📃 HTML & CSS](https://softuni.bg/certificates/details/218483/d995beb1) 
